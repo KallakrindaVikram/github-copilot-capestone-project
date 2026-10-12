@@ -1,2 +1,2 @@
-# github-copilot-capestone-project
-github-copilot-capestone-project
+# GitHub Copilot Capstone: Agentic SDLC Pipeline
+repository : KallakrindaVikram/github-copilot-capestone-project
